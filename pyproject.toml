@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
+    "lazypredict>=0.3.0",
     "matplotlib>=3.10.0",
     "numpy>=2.3.0,<2.4",
     "optuna>=4.8.0",
