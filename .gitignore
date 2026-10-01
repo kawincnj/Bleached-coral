@@ -10,3 +10,21 @@ __pycache__/
 .aws/
 .codex/
 .agents/
+
+# Personal papers and supporting research materials
+/Enhanced Coral Bleaching Predictor.pdf
+/PRESENTATION.md
+/Presentation_Coral_Bleaching.pdf
+/coral_bleaching_pca_ensemble_presentation*.pptx
+/docs/papers/*
+!/docs/papers/OriginalPaper.pdf
+/docs/presentation/
+/docs/review/
+/cache/Presentation_Coral_Bleaching.pdf
+/cache/*.md
+/cache/slide_guide.txt
+/start101/implement_03/report.html
+/start101/implement_03/new_data/coral_bleaching_comparison_report.pdf
+
+# Saved model checkpoints
+*.pth
