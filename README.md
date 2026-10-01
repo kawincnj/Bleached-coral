@@ -2,6 +2,10 @@
 
 This repository contains notebook experiments for predicting the percentage of coral bleaching at reef samples. The numbered `start101/` folders record the progression from baseline models to a two-stage model. This is a research archive, not a packaged application; `main.py` is an unused project starter.
 
+## Publication
+
+[Two-Stage Framework with PCA-Based Feature Representation for Coral Bleaching Prediction](https://link.springer.com/chapter/10.1007/978-981-92-5644-0_22), in *Integrated Uncertainty in Knowledge Modelling and Decision Making* (IUKM 2026, Lecture Notes in Computer Science).
+
 ## Repository map
 
 | Path | Contents |
